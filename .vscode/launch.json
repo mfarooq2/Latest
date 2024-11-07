@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "debugpy",
+            "request": "launch",
+            "name": "Launch data_cleaning_merging.py",
+            "program": "${workspaceFolder}/data_cleaning_merging.py"
+        }
+    ]
+}
